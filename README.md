@@ -1,5 +1,5 @@
 # esercizio 5
-creato file main.py che dato un valore restituisce il suo doppio
+creato file main.py che dato un valore restituisce il suo triplo
 
 # risoluzione
 comandi utilizzati:
